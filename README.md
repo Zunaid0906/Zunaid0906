@@ -1,4 +1,9 @@
-## Hi there 👋
+#Zunaid0906
+
+Repository about myself:
+
+Hi my name is Zunaid and i am currently pursuing B.Tech in Computer Science Engineering from VIT Bhopal University.
+My goal is to learn everything this field has to offer and make a life from it. Further i wanna learn business and launch my own health tech startup in the future
 
 <!--
 **Zunaid0906/Zunaid0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
